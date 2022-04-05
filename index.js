@@ -17,8 +17,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 */
 const cors = require("cors");
 const corsOptions = {
-  // origin: "http://localhost:8080",
-  origin: "http://192.168.50.34:8080",
+  origin: process.env.CORS_ORIGIN,
   credentials: true,
 };
 app.use(cors(corsOptions));
