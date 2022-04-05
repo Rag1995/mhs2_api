@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "perm_router": "/permission",
+    "perm_method": "POST",
+    "perm_table": "Permissions",
+    "perm_description": "新增一筆權限"
+  },
+  {
+    "id": 2,
+    "perm_router": "/permissions",
+    "perm_method": "GET",
+    "perm_table": "Permissions",
+    "perm_description": "顯示全部權限"
+  },
+  {
+    "id": 3,
+    "perm_router": "/permission/:id",
+    "perm_method": "GET",
+    "perm_table": "Permissions",
+    "perm_description": "顯示指定id權限"
+  },
+  {
+    "id": 4,
+    "perm_router": "/permission/:id",
+    "perm_method": "PUT",
+    "perm_table": "Permissions",
+    "perm_description": "更新指定id權限"
+  },
+  {
+    "id": 5,
+    "perm_router": "/permission/:id",
+    "perm_method": "DELETE",
+    "perm_table": "Permissions",
+    "perm_description": "刪除指定id權限"
+  },
+  {
+    "id": 6,
+    "perm_router": "/role",
+    "perm_method": "POST",
+    "perm_table": "Roles",
+    "perm_description": "新增一筆角色"
+  },
+  {
+    "id": 7,
+    "perm_router": "/roles",
+    "perm_method": "GET",
+    "perm_table": "Roles",
+    "perm_description": "顯示全部角色"
+  },
+  {
+    "id": 8,
+    "perm_router": "/role/:id",
+    "perm_method": "GET",
+    "perm_table": "Roles",
+    "perm_description": "顯示指定id角色"
+  },
+  {
+    "id": 9,
+    "perm_router": "/role/:id",
+    "perm_method": "PUT",
+    "perm_table": "Roles",
+    "perm_description": "更新指定id角色"
+  },
+  {
+    "id": 10,
+    "perm_router": "/role/:id",
+    "perm_method": "DELETE",
+    "perm_table": "Roles",
+    "perm_description": "刪除指定id角色"
+  },
+  {
+    "id": 11,
+    "perm_router": "/admin/monsters/all",
+    "perm_method": "GET",
+    "perm_table": "Monsters",
+    "perm_description": "顯示全部隨行獸"
+  }
+]

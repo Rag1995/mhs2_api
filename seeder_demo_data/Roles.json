@@ -1,0 +1,5 @@
+[
+  { "id": 1, "role_name": "admin", "role_description": "管理員權限" },
+  { "id": 2, "role_name": "editer", "role_description": "編輯者權限" },
+  { "id": 3, "role_name": "normal", "role_description": "一般權限" }
+]

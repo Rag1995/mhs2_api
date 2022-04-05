@@ -1,0 +1,714 @@
+[
+  {
+    "No": "001",
+    "name_tw": "草食龍",
+    "name_en": "Aptonoth",
+    "type": "power",
+    "icon": "Aptonoth_Icon.png",
+    "egg": "Aptonoth_Egg.png"
+  },
+  {
+    "No": "005",
+    "name_tw": "迅猛龍王",
+    "name_en": "Velocidrome",
+    "type": "speed",
+    "icon": "Velocidrome_Icon.png",
+    "egg": "Velocidrome_Egg.png"
+  },
+  {
+    "No": "006",
+    "name_tw": "搔鳥",
+    "name_en": "Kulu-Ya-Ku",
+    "type": "technical",
+    "icon": "Kulu_Ya_Ku_Icon.png",
+    "egg": "Kulu_Ya_Ku_Egg.png"
+  },
+  {
+    "No": "009",
+    "name_tw": "怪鳥",
+    "name_en": "Yian Kut-Ku",
+    "type": "technical",
+    "icon": "Yian_Kut_Ku_Icon.png",
+    "egg": "Yian_Kut_Ku_Egg.png"
+  },
+  {
+    "No": "011",
+    "name_tw": "野豬王",
+    "name_en": "Bulldrome",
+    "type": "power",
+    "icon": "Bulldrome_Icon.png",
+    "egg": "Bulldrome_Egg.png"
+  },
+  {
+    "No": "012",
+    "name_tw": "毒妖鳥",
+    "name_en": "Pukei-Pukei",
+    "type": "technical",
+    "icon": "Pukei_Pukei_Icon.png",
+    "egg": "Pukei_Pukei_Egg.png"
+  },
+  {
+    "No": "013",
+    "name_tw": "背甲龍",
+    "name_en": "Apceros",
+    "type": "power",
+    "icon": "Apceros_Icon.png",
+    "egg": "Apceros_Egg.png"
+  },
+  {
+    "No": "018",
+    "name_tw": "狗龍王",
+    "name_en": "Great Jaggi",
+    "type": "technical",
+    "icon": "Great_Jaggi_Icon.png",
+    "egg": "Great_Jaggi_Egg.png"
+  },
+  {
+    "No": "020",
+    "name_tw": "水獸",
+    "name_en": "Royal Ludroth",
+    "type": "power",
+    "icon": "Royal_Ludroth_Icon.png",
+    "egg": "Royal_Ludroth_Egg.png"
+  },
+  {
+    "No": "022",
+    "name_tw": "青熊獸",
+    "name_en": "Arzuros",
+    "type": "power",
+    "icon": "Arzuros_Icon.png",
+    "egg": "Arzuros_Egg.png"
+  },
+  {
+    "No": "023",
+    "name_tw": "彩鳥",
+    "name_en": "Qurupeco",
+    "type": "technical",
+    "icon": "Qurupeco_Icon.png",
+    "egg": "Qurupeco_Egg.png"
+  },
+  {
+    "No": "024",
+    "name_tw": "青怪鳥",
+    "name_en": "Blue Yian Kut-Ku",
+    "type": "technical",
+    "icon": "Blue_Yian_Kut_Ku_Icon.png",
+    "egg": "Blue_Yian_Kut_Ku_Egg.png"
+  },
+  {
+    "No": "025",
+    "name_tw": "轟龍",
+    "name_en": "Tigrex",
+    "type": "speed",
+    "icon": "Tigrex_Icon.png",
+    "egg": "Tigrex_Egg.png"
+  },
+  {
+    "No": "026",
+    "name_tw": "一角龍",
+    "name_en": "Monoblos",
+    "type": "power",
+    "icon": "Monoblos_Icon.png",
+    "egg": "Monoblos_Egg.png"
+  },
+  {
+    "No": "027",
+    "name_tw": "浮空龍",
+    "name_en": "Paolumu",
+    "type": "technical",
+    "icon": "Paolumu_Icon.png",
+    "egg": "Paolumu_Egg.png"
+  },
+  {
+    "No": "028",
+    "name_tw": "岩龍",
+    "name_en": "Basarios",
+    "type": "technical",
+    "icon": "Basarios_Icon.png",
+    "egg": "Basarios_Egg.png"
+  },
+  {
+    "No": "029",
+    "name_tw": "黑狼鳥",
+    "name_en": "Yian Garuga",
+    "type": "technical",
+    "icon": "Yian_Garuga_Icon.png",
+    "egg": "Yian_Garuga_Egg.png"
+  },
+  {
+    "No": "031",
+    "name_tw": "迅龍",
+    "name_en": "Nargacuga",
+    "type": "speed",
+    "icon": "Nargacuga_Icon.png",
+    "egg": "Nargacuga_Egg.png"
+  },
+  {
+    "No": "032",
+    "name_tw": "雌火龍",
+    "name_en": "Rathian",
+    "type": "speed",
+    "icon": "Rathian_Icon.png",
+    "egg": "Rathian_Egg.png"
+  },
+  {
+    "No": "033",
+    "name_tw": "波波",
+    "name_en": "Popo",
+    "type": "power",
+    "icon": "Popo_Icon.png",
+    "egg": "Popo_Egg.png"
+  },
+  {
+    "No": "037",
+    "name_tw": "桃毛獸王",
+    "name_en": "Congalala",
+    "type": "technical",
+    "icon": "Congalala_Icon.png",
+    "egg": "Congalala_Egg.png"
+  },
+  {
+    "No": "039",
+    "name_tw": "眠狗龍王",
+    "name_en": "Great Baggi",
+    "type": "speed",
+    "icon": "Great_Baggi_Icon.png",
+    "egg": "Great_Baggi_Egg.png"
+  },
+  {
+    "No": "040",
+    "name_tw": "奇猿狐",
+    "name_en": "Kecha Wacha",
+    "type": "technical",
+    "icon": "Kecha_Wacha_Icon.png",
+    "egg": "Kecha_Wacha_Egg.png"
+  },
+  {
+    "No": "041",
+    "name_tw": "毒怪鳥",
+    "name_en": "Gypceros",
+    "type": "power",
+    "icon": "Gypceros_Icon.png",
+    "egg": "Gypceros_Egg.png"
+  },
+  {
+    "No": "043",
+    "name_tw": "冰鮫鯊",
+    "name_en": "Zamtrios",
+    "type": "technical",
+    "icon": "Zamtrios_Icon.png",
+    "egg": "Zamtrios_Egg.png"
+  },
+  {
+    "No": "044",
+    "name_tw": "影蜘蛛",
+    "name_en": "Nerscylla",
+    "type": "technical",
+    "icon": "Nerscylla_Icon.png",
+    "egg": "Nerscylla_Egg.png"
+  },
+  {
+    "No": "045",
+    "name_tw": "土砂龍",
+    "name_en": "Barroth",
+    "type": "speed",
+    "icon": "Barroth_Icon.png",
+    "egg": "Barroth_Egg.png"
+  },
+  {
+    "No": "046",
+    "name_tw": "飛雷龍",
+    "name_en": "Tobi-Kadachi",
+    "type": "speed",
+    "icon": "Tobi_Kadachi_Icon.png",
+    "egg": "Tobi_Kadachi_Egg.png"
+  },
+  {
+    "No": "047",
+    "name_tw": "奇怪龍",
+    "name_en": "Khezu",
+    "type": "technical",
+    "icon": "Khezu_Icon.png",
+    "egg": "Khezu_Egg.png"
+  },
+  {
+    "No": "048",
+    "name_tw": "紅怪龍",
+    "name_en": "Red Khezu",
+    "type": "technical",
+    "icon": "Red_Khezu_Icon.png",
+    "egg": "Red_Khezu_Egg.png"
+  },
+  {
+    "No": "051",
+    "name_tw": "白兔獸",
+    "name_en": "Lagombi",
+    "type": "speed",
+    "icon": "Lagombi_Icon.png",
+    "egg": "Lagombi_Egg.png"
+  },
+  {
+    "No": "052",
+    "name_tw": "冰土砂龍",
+    "name_en": "Jade Barroth",
+    "type": "power",
+    "icon": "Jade_Barroth_Icon.png",
+    "egg": "Jade_Barroth_Egg.png"
+  },
+  {
+    "No": "053",
+    "name_tw": "蠻顎龍",
+    "name_en": "Anjanath",
+    "type": "power",
+    "icon": "Anjanath_Icon.png",
+    "egg": "Anjanath_Egg.png"
+  },
+  {
+    "No": "054",
+    "name_tw": "巨獸",
+    "name_en": "Gammoth",
+    "type": "power",
+    "icon": "Gammoth_Icon.png",
+    "egg": "Gammoth_Egg.png"
+  },
+  {
+    "No": "055",
+    "name_tw": "雷狼龍",
+    "name_en": "Zinogre",
+    "type": "speed",
+    "icon": "Zinogre_Icon.png",
+    "egg": "Zinogre_Egg.png"
+  },
+  {
+    "No": "056",
+    "name_tw": "冰牙龍",
+    "name_en": "Barioth",
+    "type": "speed",
+    "icon": "Barioth_Icon.png",
+    "egg": "Barioth_Egg.png"
+  },
+  {
+    "No": "057",
+    "name_tw": "風漂龍",
+    "name_en": "Legiana",
+    "type": "speed",
+    "icon": "Legiana_Icon.png",
+    "egg": "Legiana_Egg.png"
+  },
+  {
+    "No": "065",
+    "name_tw": "毒猛龍王",
+    "name_en": "Iodrome",
+    "type": "speed",
+    "icon": "Iodrome_Icon.png",
+    "egg": "Iodrome_Egg.png"
+  },
+  {
+    "No": "067",
+    "name_tw": "痺猛龍王",
+    "name_en": "Gendrome",
+    "type": "speed",
+    "icon": "Gendrome_Icon.png",
+    "egg": "Gendrome_Egg.png"
+  },
+  {
+    "No": "069",
+    "name_tw": "砂龍王",
+    "name_en": "Cephadrome",
+    "type": "speed",
+    "icon": "Cephadrome_Icon.png",
+    "egg": "Cephadrome_Egg.png"
+  },
+  {
+    "No": "070",
+    "name_tw": "白猿狐",
+    "name_en": "Ash Kecha Wacha",
+    "type": "technical",
+    "icon": "Ash_Kecha_Wacha_Icon.png",
+    "egg": "Ash_Kecha_Wacha_Egg.png"
+  },
+  {
+    "No": "071",
+    "name_tw": "紫毒鳥",
+    "name_en": "Purple Gypceros",
+    "type": "power",
+    "icon": "Purple_Gypceros_Icon.png",
+    "egg": "Purple_Gypceros_Egg.png"
+  },
+  {
+    "No": "072",
+    "name_tw": "綠迅龍",
+    "name_en": "Green Nargacuga",
+    "type": "speed",
+    "icon": "Green_Nargacuga_Icon.png",
+    "egg": "Green_Nargacuga_Egg.png"
+  },
+  {
+    "No": "073",
+    "name_tw": "角龍",
+    "name_en": "Diablos",
+    "type": "power",
+    "icon": "Diablos_Icon.png",
+    "egg": "Diablos_Egg.png"
+  },
+  {
+    "No": "074",
+    "name_tw": "黑角龍",
+    "name_en": "Black Diablos",
+    "type": "power",
+    "icon": "Black_Diablos_Icon.png",
+    "egg": "Black_Diablos_Egg.png"
+  },
+  {
+    "No": "075",
+    "name_tw": "白一角龍",
+    "name_en": "White Monoblos",
+    "type": "power",
+    "icon": "White_Monoblos_Icon.png",
+    "egg": "White_Monoblos_Egg.png"
+  },
+  {
+    "No": "076",
+    "name_tw": "紅彩鳥",
+    "name_en": "Crimson Qurupeco",
+    "type": "technical",
+    "icon": "Crimson_Qurupeco_Icon.png",
+    "egg": "Crimson_Qurupeco_Egg.png"
+  },
+  {
+    "No": "077",
+    "name_tw": "泡狐龍",
+    "name_en": "Mizutsune",
+    "type": "technical",
+    "icon": "Mizutsune_Icon.png",
+    "egg": "Mizutsune_Egg.png"
+  },
+  {
+    "No": "078",
+    "name_tw": "海龍",
+    "name_en": "Lagiacrus",
+    "type": "power",
+    "icon": "Lagiacrus_Icon.png",
+    "egg": "Lagiacrus_Egg.png"
+  },
+  {
+    "No": "079",
+    "name_tw": "爆鎚龍",
+    "name_en": "Uragaan",
+    "type": "power",
+    "icon": "Uragaan_Icon.png",
+    "egg": "Uragaan_Egg.png"
+  },
+  {
+    "No": "082",
+    "name_tw": "黑轟龍",
+    "name_en": "Brute Tigrex",
+    "type": "power",
+    "icon": "Brute_Tigrex_Icon.png",
+    "egg": "Brute_Tigrex_Egg.png"
+  },
+  {
+    "No": "083",
+    "name_tw": "紫水獸",
+    "name_en": "Purple Ludroth",
+    "type": "power",
+    "icon": "Purple_Ludroth_Icon.png",
+    "egg": "Purple_Ludroth_Egg.png"
+  },
+  {
+    "No": "084",
+    "name_tw": "桃岩龍",
+    "name_en": "Ruby Basarios",
+    "type": "technical",
+    "icon": "Ruby_Basarios_Icon.png",
+    "egg": "Ruby_Basarios_Egg.png"
+  },
+  {
+    "No": "085",
+    "name_tw": "鎧龍",
+    "name_en": "Gravios",
+    "type": "power",
+    "icon": "Gravios_Icon.png",
+    "egg": "Gravios_Egg.png"
+  },
+  {
+    "No": "092",
+    "name_tw": "骸蜘蛛",
+    "name_en": "Shrouded Nerscylla",
+    "type": "technical",
+    "icon": "Shrouded_Nerscylla_Icon.png",
+    "egg": "Shrouded_Nerscylla_Egg.png"
+  },
+  {
+    "No": "093",
+    "name_tw": "綠毛獸王",
+    "name_en": "Emerald Congalala",
+    "type": "technical",
+    "icon": "Emerald_Congalala_Icon.png",
+    "egg": "Emerald_Congalala_Egg.png"
+  },
+  {
+    "No": "095",
+    "name_tw": "黑鎧龍",
+    "name_en": "Black Gravios",
+    "type": "power",
+    "icon": "Black_Gravios_Icon.png",
+    "egg": "Black_Gravios_Egg.png"
+  },
+  {
+    "No": "096",
+    "name_tw": "白海龍",
+    "name_en": "Ivory Lagiacrus",
+    "type": "power",
+    "icon": "Ivory_Lagiacrus_Icon.png",
+    "egg": "Ivory_Lagiacrus_Egg.png"
+  },
+  {
+    "No": "097",
+    "name_tw": "碎龍",
+    "name_en": "Brachydios",
+    "type": "power",
+    "icon": "Brachydios_Icon.png",
+    "egg": "Brachydios_Egg.png"
+  },
+  {
+    "No": "098",
+    "name_tw": "滅盡龍",
+    "name_en": "Nergigante",
+    "type": "power",
+    "icon": "Nergigante_Icon.png",
+    "egg": "Nergigante_Egg.png"
+  },
+  {
+    "No": "099",
+    "name_tw": "電龍",
+    "name_en": "Astalos",
+    "type": "technical",
+    "icon": "Astalos_Icon.png",
+    "egg": "Astalos_Egg.png"
+  },
+  {
+    "No": "100",
+    "name_tw": "斬龍",
+    "name_en": "Glavenus",
+    "type": "power",
+    "icon": "Glavenus_Icon.png",
+    "egg": "Glavenus_Egg.png"
+  },
+  {
+    "No": "102",
+    "name_tw": "爆鱗龍",
+    "name_en": "Bazelgeuse",
+    "type": "speed",
+    "icon": "Bazelgeuse_Icon.png",
+    "egg": "Bazelgeuse_Egg.png"
+  },
+  {
+    "No": "107",
+    "name_tw": "風牙龍",
+    "name_en": "Sand Barioth",
+    "type": "speed",
+    "icon": "Sand_Barioth_Icon.png",
+    "egg": "Sand_Barioth_Egg.png"
+  },
+  {
+    "No": "108",
+    "name_tw": "恐暴龍",
+    "name_en": "Deviljho",
+    "type": "power",
+    "icon": "Deviljho_Icon.png",
+    "egg": "Deviljho_Egg.png"
+  },
+  {
+    "No": "109",
+    "name_tw": "獄狼龍",
+    "name_en": "Stygian Zinogre",
+    "type": "technical",
+    "icon": "Stygian_Zinogre_Icon.png",
+    "egg": "Stygian_Zinogre_Egg.png"
+  },
+  {
+    "No": "110",
+    "name_tw": "千刃龍",
+    "name_en": "Seregios",
+    "type": "technical",
+    "icon": "Seregios_Icon.png",
+    "egg": "Seregios_Egg.png"
+  },
+  {
+    "No": "112",
+    "name_tw": "火龍",
+    "name_en": "Rathalos",
+    "type": "power",
+    "icon": "Rathalos_Icon.png",
+    "egg": "Rathalos_Egg.png"
+  },
+  {
+    "No": "113",
+    "name_tw": "蒼火龍",
+    "name_en": "Azure Rathalos",
+    "type": "power",
+    "icon": "Azure_Rathalos_Icon.png",
+    "egg": "Azure_Rathalos_Egg.png"
+  },
+  {
+    "No": "114",
+    "name_tw": "櫻火龍",
+    "name_en": "Pink Rathian",
+    "type": "speed",
+    "icon": "Pink_Rathian_Icon.png",
+    "egg": "Pink_Rathian_Egg.png"
+  },
+  {
+    "No": "115",
+    "name_tw": "雷顎龍",
+    "name_en": "Fulgur Anjanath",
+    "type": "power",
+    "icon": "Fulgur_Anjanath_Icon.png",
+    "egg": "Fulgur_Anjanath_Egg.png"
+  },
+  {
+    "No": "116",
+    "name_tw": "白疾風迅龍",
+    "name_en": "Silverwind Nargacuga",
+    "type": "speed",
+    "icon": "Silverwind_Nargacuga_Icon.png",
+    "egg": "Silverwind_Nargacuga_Egg.png"
+  },
+  {
+    "No": "117",
+    "name_tw": "金雷公雷狼龍",
+    "name_en": "Thunderlord Zinogre",
+    "type": "power",
+    "icon": "Thunderlord_Zinogre_Icon.png",
+    "egg": "Thunderlord_Zinogre_Egg.png"
+  },
+  {
+    "No": "118",
+    "name_tw": "鏖魔角龍",
+    "name_en": "Bloodbath Diablos",
+    "type": "speed",
+    "icon": "Bloodbath_Diablos_Icon.png",
+    "egg": "Bloodbath_Diablos_Egg.png"
+  },
+  {
+    "No": "119",
+    "name_tw": "荒鉤爪轟龍",
+    "name_en": "Grimclaw Tigrex",
+    "type": "power",
+    "icon": "Grimclaw_Tigrex_Icon.png",
+    "egg": "Grimclaw_Tigrex_Egg.png"
+  },
+  {
+    "No": "120",
+    "name_tw": "紫毒姬雌火龍",
+    "name_en": "Dreadqueen Rathian",
+    "type": "speed",
+    "icon": "Dreadqueen_Rathian_Icon.png",
+    "egg": "Dreadqueen_Rathian_Egg.png"
+  },
+  {
+    "No": "121",
+    "name_tw": "麒麟",
+    "name_en": "Kirin",
+    "type": "speed",
+    "icon": "Kirin_Icon.png",
+    "egg": "Kirin_Egg.png"
+  },
+  {
+    "No": "122",
+    "name_tw": "炎王龍",
+    "name_en": "Teostra",
+    "type": "power",
+    "icon": "Teostra_Icon.png",
+    "egg": "Teostra_Egg.png"
+  },
+  {
+    "No": "123",
+    "name_tw": "金獅子",
+    "name_en": "Rajang",
+    "type": "power",
+    "icon": "Rajang_Icon.png",
+    "egg": "Rajang_Egg.png"
+  },
+  {
+    "No": "124",
+    "name_tw": "鋼龍",
+    "name_en": "Kushala Daora",
+    "type": "technical",
+    "icon": "Kushala_Daora_Icon.png",
+    "egg": "Kushala_Daora_Egg.png"
+  },
+  {
+    "No": "125",
+    "name_tw": "冰呪龍",
+    "name_en": "Velkhana",
+    "type": "technical",
+    "icon": "Velkhana_Icon.png",
+    "egg": "Velkhana_Egg.png"
+  },
+  {
+    "No": "126",
+    "name_tw": "青電主電龍",
+    "name_en": "Boltreaver Astalos",
+    "type": "technical",
+    "icon": "Boltreaver_Astalos_Icon.png",
+    "egg": "Boltreaver_Astalos_Egg.png"
+  },
+  {
+    "No": "127",
+    "name_tw": "燼滅刃斬龍",
+    "name_en": "Hellblade Glavenus",
+    "type": "power",
+    "icon": "Hellblade_Glavenus_Icon.png",
+    "egg": "Hellblade_Glavenus_Egg.png"
+  },
+  {
+    "No": "136",
+    "name_tw": "加爾克",
+    "name_en": "Palamute (Normal)",
+    "type": "speed",
+    "icon": "Palamute_Normal_Icon.png",
+    "egg": "Palamute_Normal_Egg.png"
+  },
+  {
+    "No": "137",
+    "name_tw": "加爾克 (火)",
+    "name_en": "Palamute (Fire)",
+    "type": "speed",
+    "icon": "Palamute_Fire_Icon.png",
+    "egg": "Palamute_Fire_Egg.png"
+  },
+  {
+    "No": "138",
+    "name_tw": "加爾克 (水)",
+    "name_en": "Palamute (Water)",
+    "type": "speed",
+    "icon": "Palamute_Water_Icon.png",
+    "egg": "Palamute_Water_Egg.png"
+  },
+  {
+    "No": "139",
+    "name_tw": "加爾克 (雷)",
+    "name_en": "Palamute (Thunder)",
+    "type": "speed",
+    "icon": "Palamute_Thunder_Icon.png",
+    "egg": "Palamute_Thunder_Egg.png"
+  },
+  {
+    "No": "140",
+    "name_tw": "加爾克 (冰)",
+    "name_en": "Palamute (Ice)",
+    "type": "speed",
+    "icon": "Palamute_Ice_Icon.png",
+    "egg": "Palamute_Ice_Egg.png"
+  },
+  {
+    "No": "141",
+    "name_tw": "加爾克 (龍)",
+    "name_en": "Palamute (Dragon)",
+    "type": "speed",
+    "icon": "Palamute_Dragon_Icon.png",
+    "egg": "Palamute_Dragon_Egg.png"
+  }
+]

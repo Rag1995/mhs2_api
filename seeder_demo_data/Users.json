@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "root1995_admine",
+    "password": "Root1995_admine",
+    "role_id": 1
+  },
+  {
+    "id": 2,
+    "username": "root1995_editer",
+    "password": "Root1995_editer",
+    "role_id": 2
+  }
+]
