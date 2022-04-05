@@ -49,7 +49,7 @@ app.get("/test", (req, res) => {
 });
 
 app.all("*", (req, res) => {
-  res.redirect("https://www.google.com.tw/");
+  res.send("Not Found");
 });
 
 /*
