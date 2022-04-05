@@ -11,6 +11,7 @@ module.exports = {
       No: {
         type: Sequelize.INTEGER,
         allowNull: false,
+        unique: true,
         comment: "基因編號",
         get() {
           const No = this.getDataValue("No");

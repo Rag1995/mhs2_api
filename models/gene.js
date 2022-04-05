@@ -21,6 +21,7 @@ module.exports = (sequelize, DataTypes) => {
       No: {
         type: DataTypes.INTEGER,
         allowNull: false,
+        unique: true,
         get() {
           const No = this.getDataValue("No");
           return String(No).padStart(3, "0");

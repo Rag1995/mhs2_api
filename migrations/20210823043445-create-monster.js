@@ -13,6 +13,7 @@ module.exports = {
         No: {
           type: Sequelize.INTEGER,
           allowNull: false,
+          unique: true,
           comment: "魔物圖鑑編號",
           get() {
             const No = this.getDataValue("No");

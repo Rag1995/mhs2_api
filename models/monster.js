@@ -21,7 +21,7 @@ module.exports = (sequelize, DataTypes) => {
       No: {
         type: DataTypes.INTEGER,
         allowNull: false,
-
+        unique: true,
         comment: "魔物圖鑑編號",
         get() {
           const No = this.getDataValue("No");
