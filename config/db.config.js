@@ -31,9 +31,12 @@ const config = {
     url: "postgres://liccqnpkdmktsj:20c0dd6e919515e7053621c8b248cfcacd1798ee549ef11c22b91e3f8b809bfd@ec2-44-194-92-192.compute-1.amazonaws.com:5432/dap7vbp3tos02i",
     dialect: "postgres",
     protocol: "postgres",
-    // dialectOptions: {
-    //   ssl: true,
-    // },
+    dialectOptions: {
+      ssl: {
+        require: true,
+        rejectUnauthorized: false,
+      },
+    },
     pool: {
       max: 10,
       min: 1,
