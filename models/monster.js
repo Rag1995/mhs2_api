@@ -40,9 +40,9 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.STRING,
         allowNull: false,
         comment: "力量(power), 技巧(technical), 速度(speed)",
-        validate: {
-          isIn: [["power", "technical", "speed"]],
-        },
+        // validate: {
+        //   isIn: [["power", "technical", "speed"]],
+        // },
       },
       icon: {
         type: DataTypes.STRING,
