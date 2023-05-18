@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: __dirname + `./.env.${process.env.NODE_ENV}`,
+});
+
 const config = {
   dev: {
     database: "MHS2",
@@ -28,18 +32,17 @@ const config = {
     dialect: "mysql",
   },
   production: {
-    database: "d183oj3kqpuosn",
-    username: "torsxlguyuadne",
-    password:
-      "eb8fa6c8a153aae558a8bd9411281321babe82dc7fcb40b185c2505b4ea4d69d",
-    host: "ec2-52-21-136-176.compute-1.amazonaws.com",
-    port: 5432,
+    database: process.env.DB_DATABASE,
+    username: process.env.DB_USERNAME,
+    password: process.env.DB_PASSWORD,
+    host: process.env.DB_HOST,
+    port: process.env.DB_PORT,
     dialect: "postgres",
     dialectOptions: {
-      ssl: {
-        require: true,
-        rejectUnauthorized: false,
-      },
+      // ssl: {
+      //   require: true,
+      //   rejectUnauthorized: false,
+      // },
     },
     pool: {
       max: 10,
