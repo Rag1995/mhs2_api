@@ -31,17 +31,17 @@ app.use(helmet()); // app.disable("x-powered-by");
 /*
   creating a connection to the database.
 */
-const { sequelize } = require("./models/index");
-sequelize
-  .sync()
-  .then(() => console.log("connect to the database SUCCESS!!!"))
-  .catch((err) => console.error("Unable to connect to the database:", err));
+// const { sequelize } = require("./models/index");
+// sequelize
+//   .sync()
+//   .then(() => console.log("connect to the database SUCCESS!!!"))
+//   .catch((err) => console.error("Unable to connect to the database:", err));
 
 /*
   router
 */
-app.use("/public", express.static("public"));
-app.use("/api", require("./router/index"));
+// app.use("/public", express.static("public"));
+// app.use("/api", require("./router/index"));
 
 app.get("/test", (req, res) => {
   res.send("hello world");
