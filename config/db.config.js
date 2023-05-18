@@ -28,6 +28,7 @@ const config = {
     dialect: "mysql",
   },
   production: {
+    use_env_variable: false,
     database: process.env.DB_DATABASE,
     username: process.env.DB_USERNAME,
     password: process.env.DB_PASSWORD,
