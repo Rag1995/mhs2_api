@@ -1,5 +1,6 @@
 const config = {
-  dev: {
+  development: {
+    use_env_variable: false,
     database: "MHS2",
     username: "adminMHS2",
     password: "adminMHS2pAs$w0rd",
@@ -21,6 +22,7 @@ const config = {
     logging: false,
   },
   test: {
+    use_env_variable: false,
     username: "root",
     password: null,
     database: "database_test",

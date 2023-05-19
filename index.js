@@ -40,7 +40,7 @@ app.use("/public", express.static("public"));
 // app.use("/api", require("./router/index"));
 
 app.get("/test", (req, res) => {
-  res.send("hello world");
+  res.send("hello world" + process.env.NODE_ENV);
 });
 
 app.all("*", (req, res) => {
@@ -53,10 +53,10 @@ app.all("*", (req, res) => {
 const PORT = process.env.PORT;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);
-  sequelize
-    .authenticate()
-    .then(() => console.log("connect to the database SUCCESS!!!"))
-    .catch((err) => console.error("Unable to connect to the database:", err));
+  // sequelize
+  //   .sync()
+  //   .then(() => console.log("connect to the database SUCCESS!!!"))
+  //   .catch((err) => console.error("Unable to connect to the database:", err));
 });
 
 
