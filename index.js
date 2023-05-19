@@ -37,7 +37,7 @@ const { sequelize } = require("./models/index");
   router
 */
 app.use("/public", express.static("public"));
-// app.use("/api", require("./router/index"));
+app.use("/api", require("./router/index"));
 
 app.get("/test", (req, res) => {
   res.send("hello world" + process.env.NODE_ENV);
@@ -53,10 +53,10 @@ app.all("*", (req, res) => {
 const PORT = process.env.PORT;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);
-  // sequelize
-  //   .sync()
-  //   .then(() => console.log("connect to the database SUCCESS!!!"))
-  //   .catch((err) => console.error("Unable to connect to the database:", err));
+  sequelize
+    .sync()
+    .then(() => console.log("connect to the database SUCCESS!!!"))
+    .catch((err) => console.error("Unable to connect to the database:", err));
 });
 
 
