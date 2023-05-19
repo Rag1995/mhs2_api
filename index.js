@@ -17,7 +17,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 */
 const cors = require("cors");
 const corsOptions = {
-  origin: process.env.CORS_ORIGIN,
+  origin: process.env.CORS_ORIGIN.split(","),
   credentials: true,
 };
 app.use(cors(corsOptions));
