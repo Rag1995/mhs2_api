@@ -16,8 +16,11 @@ app.use(bodyParser.urlencoded({ extended: true }));
   CORS is a browser security feature that restricts cross-origin HTTP requests with other servers and specifies which domains access your resources.
 */
 const cors = require("cors");
+const corsOrigin = process.env.CORS_ORIGIN.split(",").map(
+  (el) => new RegExp(el)
+);
 const corsOptions = {
-  origin: process.env.CORS_ORIGIN.split(","),
+  origin: corsOrigin,
   credentials: true,
 };
 app.use(cors(corsOptions));
