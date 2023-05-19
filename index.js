@@ -59,6 +59,5 @@ app.listen(PORT, () => {
     .catch((err) => console.error("Unable to connect to the database:", err));
 });
 
-
 // Export the Express API
 module.exports = app;

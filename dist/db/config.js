@@ -1,6 +1,4 @@
-require("dotenv").config({
-  path: __dirname + `./.env.${process.env.NODE_ENV}`,
-});
+require("dotenv").config();
 
 const config = {
   development: {

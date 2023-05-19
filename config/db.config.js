@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 const config = {
   development: {
     use_env_variable: false,
